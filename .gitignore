@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.streamlit/
+excel-quiz-ai-firebase-adminsdk-*.json
+community_drive/
+cloud_secrets.txt
+generate_secrets.py

@@ -16,15 +16,4 @@ Welcome to the **Excel Learning Platform**, a comprehensive Learning Management 
 - **AI Integrations:** Google Gemini Advanced AI Models
 
 ## 🚀 Live Demo
-*(Replace this with your deployed Streamlit Cloud URL! E.g. `https://excel-learning-platform.streamlit.app`)*
-
----
-
-## 💻 Local Setup & Installation
-
-If you'd like to run the Excel Learning Platform on your local machine, follow these steps:
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/VINAYVISHWAKARMA20/excel-learning-platform.git
-cd excel-learning-platform
+https://learn-ms-excel.streamlit.app/
